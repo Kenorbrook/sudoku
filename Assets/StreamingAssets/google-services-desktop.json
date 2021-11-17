@@ -1,0 +1,36 @@
+{
+  "project_info": {
+    "project_number": "1055839520466",
+    "project_id": "asdas-5ceda",
+    "storage_bucket": "asdas-5ceda.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1055839520466:ios:7ac03a1ee0e28645ec8f0b",
+        "android_client_info": {
+          "package_name": "123"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1055839520466-um52rqufi7576cjefjg005objt900067.apps.googleusercontent.com"
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRt6uZbSY0o3c4zcvWvvRrEcIvI9b4B9E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 0
+        },
+        "appinvite_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
